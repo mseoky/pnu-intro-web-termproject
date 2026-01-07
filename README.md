@@ -1,4 +1,4 @@
-# Busan-Attractions-Web - Pusan National University Coursework
+# Busan Attractions Web - Pusan National University Coursework
 
 > **Note:** This is a student project from my freshman year, archived to track my early development journey.
 > (본 레포지토리는 1학년 전공 과정 중 수행한 프로젝트를 기록용으로 보관한 것입니다.)
